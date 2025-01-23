@@ -1,0 +1,21 @@
+********* Write a java program to print the natural numbers between 100 to 200;
+
+
+package Day1;
+
+public class whileLoopPractise {
+	public static void main(String[] args){
+	int i = 100;
+	while(i<=200) {
+	System.out.println(i);
+	i++;
+	}
+	System.out.println("End of the loop");
+}
+}
+
+
+
+
+
+JIRA,Powershell, Citrix, Setting up Citrix components and Windows domain Environments, Windows server
